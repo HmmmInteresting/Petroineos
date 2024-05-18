@@ -1,0 +1,11 @@
+Symbol,Hold,Country,Item,Item_value,Updatedby,Updatetime
+AAAA,0,US,cusip,A234AC,petroineos,2024-05-18 13:54:23
+AAAA,0,US,isin,US01222911,petroineos,2024-05-18 13:54:23
+BBBB,1,Great Britain,cusip,123998,petroineos,2024-05-18 13:54:23
+BBBB,1,Great Britain,isin,GB12222201,petroineos,2024-05-18 13:54:23
+CCCC,1,US,cusip,G129111,petroineos,2024-05-18 13:54:23
+CCCC,1,US,isin,US01239811,petroineos,2024-05-18 13:54:23
+DDDD,1,Italy,cusip,78321,petroineos,2024-05-18 13:54:23
+DDDD,1,Italy,isin,IT92812323,petroineos,2024-05-18 13:54:23
+GGGG,1,Belgium,cusip,B54334AC,petroineos,2024-05-18 13:54:23
+GGGG,1,Belgium,isin,BE012568156,petroineos,2024-05-18 13:54:23
