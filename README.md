@@ -1,14 +1,16 @@
 # Petroineos
-Project for internship application
-
 My repository includes the following files:
 
-There are 2 code files. 
+Code Files:
 
-A) The symbols_update contains my solution to the assignment (located below the instructions). 
+1. symbols_update: This file contains my solution to the assignment, which is located below the instructions in the file.
 
-B) A file titled "Different Inputs" is able to deal with non-csv file types and empty data files gracefully.
+2. Different Inputs: This is an additional file that can handle non-CSV file types, such as excel files, and manages empty data files gracefully.
 
-The word document titled "strategy" details how I approached this assignment and my process.
+Strategy Document:
 
-The database csv file which is the final output.
+- strategy: This Word document outlines my approach to the assignment and describes my process in detail.
+
+Final Output:
+
+- database.csv: The final output of the processed data.
